@@ -123,7 +123,7 @@ ul li span{
     border-radius: 50px;
 
 }
-
+/* Background for delete button when hovered styles */
 ul li span:hover{
     background: #edeef0;
 
