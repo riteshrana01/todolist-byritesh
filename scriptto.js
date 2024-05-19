@@ -48,6 +48,7 @@ else if (e.target.tagName === "SPAN") {
 
 // Function to save the data to local storage
 function saveData(){
+    // Save the list container's inner HTML to local storage with the key "data"
     localStorage.setItem("data", listContainer.innerHTML);
 }
 
