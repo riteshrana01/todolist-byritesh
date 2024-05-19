@@ -127,6 +127,7 @@ ul li::before{
     width: 28px;
     border-radius: 50%;
     background-image: url(unchecked.png);
+    /* Adjust background-size and background-position */
     background-size: cover;
     background-position: center;
     top: 12px;
