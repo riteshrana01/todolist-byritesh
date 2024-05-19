@@ -107,6 +107,7 @@ button{
 /* To-do list styles */
 ul li {
     list-style: none;
+    /* Set font size */
     font-size: 17px;
     padding: 12px 8px 12px 50px;
     user-select: none;
