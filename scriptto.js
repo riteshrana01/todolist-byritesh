@@ -35,6 +35,8 @@ function addTask() {
 // Add event listener to the list container to handle user clicks on list items and "x" symbols
 
 listContainer.addEventListener("click", function(e) {
+            // If the user clicks on a list item
+
     if (e.target.tagName === "LI") {
         e.target.classList.toggle("checked");
         saveData();
