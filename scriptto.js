@@ -11,7 +11,6 @@ function addTask() {
     } 
                 
 // If not empty, create a new list item with the value of the input box
-
     else {
         let li = document.createElement("li");
         li.innerHTML = inputBox.value;
