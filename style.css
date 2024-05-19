@@ -67,6 +67,7 @@
     background: #edeef0;
     /* Add border-radius to the input row */
     border-radius: 30px;
+    /* Add padding inside the input row */
     padding-left: 20px;
     margin-bottom: 25px;
 
