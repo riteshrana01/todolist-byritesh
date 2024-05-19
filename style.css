@@ -178,6 +178,7 @@ ul li span{
     color: #555;
     /* Center text horizontally and vertically */
     text-align: center;
+    /* Add border-radius to make it circular */
     border-radius: 50px;
 
 }
