@@ -121,6 +121,7 @@ ul li {
 }
 /* Checkbox before the list item styles */
 ul li::before{
+    /* Create a pseudo-element before the list item */
     content: '';
     position: absolute;
     height: 28px;
