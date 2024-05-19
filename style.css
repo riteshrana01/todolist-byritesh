@@ -10,39 +10,53 @@
     box-sizing: border-box;
 }
 
+
 /*Container styles css  */
+
 .container {
+    /* Fill the entire width of the viewport */
     width: 100%;
+    /* Set minimum height to 100vh (viewport height) */
     min-height: 100vh;
-    
+    /* Apply background gradient */
     background: linear-gradient(135deg, #153677, #4e085f);
+    /* Add padding around the container */
     padding: 10px;
 }
-
+/* To-Do app wrapper styles */
 .todo-app {
+/* Fill the available width up to 540px */
     width: 100%;
     max-width: 540px;
+/* Set white background color */
     background: #fff; 
+/* Center the to-do app horizontally and add vertical spacing */
     margin: 100px auto 20px;
+/* Add padding inside the to-do app */
     padding: 40px 30px 70px;
+/* Apply border-radius to the to-do app */    
     border-radius: 10px;
 }
-
+/* To do app heading styles */
 .todo-app h2{
+    /* Set text color */
     color: #002765;
+    /* Align the heading text and icon horizontally */
     display: flex;
     align-items: center;
     margin-bottom: 20px ;
     margin-left: 10px;
 
 }
-
+/* Image within the heading styles */
 .todo-app h2 img{
+    /* Set image width */
     width: 30px;
+    /* Add spacing to the left of the image */
     margin-left: 10px ;
 
 }
-
+/* Input row styles */
 .row{
     display: flex ;
     align-items: center;
@@ -53,7 +67,7 @@
     margin-bottom: 25px;
 
 }
-
+/* Input field styles */
 input{
     flex:1;
     border: none;
@@ -61,7 +75,7 @@ input{
     outline: none;
     padding: 10px;
 }
-
+/* Add button styles */
 button{
     border: none;
     outline: none;
@@ -73,7 +87,7 @@ button{
     border-radius: 40px;
 
 }
-
+/* To-do list styles */
 ul li {
     list-style: none;
     font-size: 17px;
@@ -84,7 +98,7 @@ ul li {
 
 
 }
-
+/* Checkbox before the list item styles */
 ul li::before{
     content: '';
     position: absolute;
@@ -98,18 +112,19 @@ ul li::before{
     left: 8px;
 
 }
-
+/* Styles for checked list items */
 ul li.checked{
     color: #555;
     text-decoration: line-through;
 
 }
+/* Checkbox for checked list items styles */
 
 ul li.checked::before{
     background-image: url(checked.png);
 
 }
-
+/* Delete button within the list item styles */
 ul li span{
     position: absolute;
     right: 0;
@@ -123,7 +138,7 @@ ul li span{
     border-radius: 50px;
 
 }
-
+/* Background for delete button when hovered styles */
 ul li span:hover{
     background: #edeef0;
 
