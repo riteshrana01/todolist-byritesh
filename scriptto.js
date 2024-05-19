@@ -20,9 +20,9 @@ function addTask() {
         span.innerHTML = "\u00d7";
         li.appendChild(span);
     }
-    // Clear the input box
-
-    inputBox.value = "";
+        
+// Clear the input box
+inputBox.value = "";
             // Save the data to local storage
 
     saveData();
