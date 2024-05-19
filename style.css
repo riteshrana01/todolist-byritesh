@@ -65,6 +65,7 @@
     justify-content: space-between;
     /* Set background color for the input row */
     background: #edeef0;
+    /* Add border-radius to the input row */
     border-radius: 30px;
     padding-left: 20px;
     margin-bottom: 25px;
