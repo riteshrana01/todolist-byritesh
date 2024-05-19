@@ -32,6 +32,7 @@ function addTask() {
     saveData();
 
 }
+// Add event listener to the list container to handle user clicks on list items and "x" symbols
 
 listContainer.addEventListener("click", function(e) {
     if (e.target.tagName === "LI") {
