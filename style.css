@@ -61,6 +61,7 @@
     /* Align content horizontally */
     display: flex ;
     align-items: center;
+    /* Space items evenly within the row */
     justify-content: space-between;
     background: #edeef0;
     border-radius: 30px;
