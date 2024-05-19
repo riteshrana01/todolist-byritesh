@@ -78,6 +78,7 @@ input{
     flex:1;
     border: none;
     background: transparent;
+    /* Remove outline when focused */
     outline: none;
     padding: 10px;
 }
