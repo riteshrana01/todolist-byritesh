@@ -37,6 +37,7 @@
 }
 /* To do app heading styles */
 .todo-app h2{
+     /* Set text color */
     color: #002765;
     display: flex;
     align-items: center;
