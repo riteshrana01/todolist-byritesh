@@ -33,7 +33,7 @@ The <ul> and <li> tags in HTML are used together to create unordered lists. The 
 
 The <h> tag, commonly known as the heading tag, is used in HTML to define headings or titles within a document. Headings are essential for structuring the content of a webpage and improving its accessibility and readability. HTML provides six levels of headings, from <h1> to <h6>, with <h1> being the most important (typically used for the main title of the page) and <h6> being the least important (usually used for subheadings or minor titles.
 
-
+![head](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/c310f015-e30f-4dcc-88c0-51505b7e9b21)
 
 The <script> tag in HTML is used to define client-side JavaScript code or to reference an external JavaScript file. It allows developers to add interactivity, manipulate the DOM (Document Object Model), handle events, and perform various other tasks on the client side
 
