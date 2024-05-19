@@ -23,6 +23,7 @@
 }
 /* To-Do app wrapper styles */
 .todo-app {
+/* Fill the available width up to 540px */
     width: 100%;
     max-width: 540px;
     background: #fff; 
