@@ -137,6 +137,7 @@ ul li::before{
 ul li.checked{
 /*     change text colour */
     color: #555;
+/* Add a line-through text decoration */
     text-decoration: line-through;
 
 }
