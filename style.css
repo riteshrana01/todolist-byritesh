@@ -28,6 +28,7 @@
     max-width: 540px;
 /* Set white background color */
     background: #fff; 
+/* Center the to-do app horizontally and add vertical spacing */
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
     border-radius: 10px;
