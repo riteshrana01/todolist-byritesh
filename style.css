@@ -26,6 +26,7 @@
 /* Fill the available width up to 540px */
     width: 100%;
     max-width: 540px;
+/* Set white background color */
     background: #fff; 
     margin: 100px auto 20px;
     padding: 40px 30px 70px;
