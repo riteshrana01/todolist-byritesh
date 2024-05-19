@@ -34,3 +34,8 @@ The <h> tag, commonly known as the heading tag, is used in HTML to define headin
 ![Uploading Screenshot 2024-05-19 151335.png…]()
 
 The <script> tag in HTML is used to define client-side JavaScript code or to reference an external JavaScript file. It allows developers to add interactivity, manipulate the DOM (Document Object Model), handle events, and perform various other tasks on the client side
+
+
+
+
+The <title> tag in HTML is used to define the title of the document. This title is displayed in the browser's title bar or tab, and it is also used by search engines as the title of the search result. The <title> element is required in all HTML documents and must be placed within the <head> section.
