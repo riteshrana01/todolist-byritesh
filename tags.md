@@ -12,9 +12,15 @@ The <head> tag in HTML is a crucial element that contains meta-information about
 
 The <link> tag in HTML is used to define the relationship between the current document and an external resource. It is most commonly used to link to external stylesheets, but it can also be used for other types of resources like icons, prefetching, and web fonts.
 
+![Screenshot 2024-05-19 151524](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/316718e3-e03f-4c13-81d3-a683c4c45f9c)
+
+
 The <body> tag in HTML represents the content of an HTML document. It contains all the visible content that users see when they visit a webpage.
 
 The <div> tag in HTML is a versatile container element used to group together other HTML elements and apply styling or JavaScript functionality to them collectively. It stands for "division" and is often used to create sections or divisions within a webpage.
+
+
+
 
 The <input> tag in HTML is used to create interactive controls for web forms. It allows users to enter data that can be submitted to a server for processing. The type of input control is defined by the type attribute.
 
