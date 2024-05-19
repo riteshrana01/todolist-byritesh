@@ -170,6 +170,7 @@ ul li span{
     /* Set width and height */
     width: 40px;
     height: 40px;
+    /* Set font size */
     font-size: 22px;
     line-height: 40px;
     color: #555;
