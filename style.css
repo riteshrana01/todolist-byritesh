@@ -16,6 +16,7 @@
     width: 100%;
     /* Set minimum height to 100vh (viewport height) */
     min-height: 100vh;
+    /* Apply background gradient */
     background: linear-gradient(135deg, #153677, #4e085f);
     padding: 10px;
 }
