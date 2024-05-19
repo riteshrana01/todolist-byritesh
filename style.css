@@ -50,8 +50,9 @@
     /*Add spacing between heading and icon */
     margin-bottom: 20px ;
     margin-left: 10px;
-
 }
+
+
 /* Image within the heading styles */
 .todo-app h2 img{
     /* Set image width */
