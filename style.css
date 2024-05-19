@@ -37,8 +37,9 @@
 }
 /* To do app heading styles */
 .todo-app h2{
-     /* Set text color */
+    /* Set text color */
     color: #002765;
+    /* Align the heading text and icon horizontally */
     display: flex;
     align-items: center;
     margin-bottom: 20px ;
