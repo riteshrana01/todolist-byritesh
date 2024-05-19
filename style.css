@@ -164,6 +164,7 @@ ul li.checked::before{
 ul li span{
     /* Position the delete button absolutely */
     position: absolute;
+    /* Set right and top position */
     right: 0;
     top: 5px;
     width: 40px;
