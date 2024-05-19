@@ -171,6 +171,7 @@ ul li span{
     line-height: 40px;
     color: #555;
     text-align: center;
+    /* Add border-radius to make it circular */
     border-radius: 50px;
 
 }
