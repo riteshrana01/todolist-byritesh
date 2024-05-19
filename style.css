@@ -129,6 +129,7 @@ ul li::before{
     background-image: url(unchecked.png);
     background-size: cover;
     background-position: center;
+    /* Set top and left position */
     top: 12px;
     left: 8px;
 
