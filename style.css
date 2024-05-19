@@ -32,6 +32,7 @@
     margin: 100px auto 20px;
 /* Add padding inside the to-do app */
     padding: 40px 30px 70px;
+/* Apply border-radius to the to-do app */    
     border-radius: 10px;
 }
 /* To do app heading styles */
