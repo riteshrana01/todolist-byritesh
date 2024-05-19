@@ -1,3 +1,4 @@
+// Get the input box and list container elements from the HTML document
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
