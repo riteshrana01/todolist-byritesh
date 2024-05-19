@@ -1,8 +1,8 @@
-Problem Statement
+*Problem Statement*
 
 Many individuals struggle with effective task management. Existing to-do list tools often lack user-friendly interfaces and comprehensive features, making the process cumbersome. Users require a simple yet powerful online platform to effortlessly create, organize, and prioritize tasks. Moreover, the absence of collaboration features in many tools hampers teams' ability to efficiently work on shared tasks. Therefore, there is a need for a straightforward to-do list website that simplifies task management for individuals and facilitates seamless team collaboration.
 
-Solution
+*Solution*
 
 This to-do list website exemplifies the capabilities of front-end web development, highlighting the skills and creativity of three talented students: Pranay, Surbhi, and Ritesh. The website provides users with an intuitive interface to create, read, update, and delete tasks, ensuring a seamless user experience.
 
@@ -14,7 +14,7 @@ The website's functionality is further enhanced with features like task filterin
 
 In summary, this to-do list website is a powerful demonstration of front-end web development potential, showcasing how HTML, CSS, and JavaScript can create dynamic and engaging user experiences.
 
-Working of the Project
+*Working of the Project*
 
 The to-do list website operates as an efficient and user-friendly task management tool, leveraging front-end web technologies to deliver a seamless experience. Here is an overview of its working:
 
