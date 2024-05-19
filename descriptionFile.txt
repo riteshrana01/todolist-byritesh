@@ -1,0 +1,17 @@
+Problem statement
+
+“Build a website and deploy it on GitHub”
+
+Many people find it challenging to keep track of their tasks effectively. 
+Existing to-do list tools often lack user-friendly interfaces and comprehensive features, making task management cumbersome. 
+Users need a simple yet powerful online platform that helps them create, organize, and prioritize tasks effortlessly. 
+Additionally, the lack of collaboration features in many tools makes it difficult for teams to work together efficiently on shared tasks. 
+Thus, there is a need for a straightforward to-do list website that simplifies task management for individuals and enables seamless collaboration for teams.
+
+Solution
+
+This to-do list website is a testament to the power of front-end web development, showcasing the skills and creativity of three talented students, Pranay, Surbhi, and Ritesh. The website allows users to create, read, update, and delete tasks in a simple and intuitive interface, providing a seamless user experience.
+The website is built using HTML, CSS, and JavaScript, with no back-end server or database required. The to-do list data is stored locally in the user's browser using the Web Storage API, ensuring that the tasks are preserved even when the browser is closed and reopened.
+The website's responsive design ensures that it looks great on any device, from desktop computers to mobile phones. The use of modern CSS techniques, such as flexbox and grid, provides a clean and organized layout, while the custom icons and color scheme add a touch of personality and style.
+The website's functionality is enhanced with features such as task filtering, sorting, and editing, as well as keyboard navigation and screen reader support, making it accessible to users with different abilities and preferences.
+Overall, this to-do list website is a powerful example of what can be achieved with front-end web development, demonstrating the potential of HTML, CSS, and JavaScript to create dynamic and engaging user experiences.
