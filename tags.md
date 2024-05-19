@@ -19,8 +19,7 @@ The <body> tag in HTML represents the content of an HTML document. It contains a
 
 The <div> tag in HTML is a versatile container element used to group together other HTML elements and apply styling or JavaScript functionality to them collectively. It stands for "division" and is often used to create sections or divisions within a webpage.
 
-
-
+![Screenshot 2024-05-19 151428](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/336b4065-feab-47db-a14c-59187247ccfe)
 
 The <input> tag in HTML is used to create interactive controls for web forms. It allows users to enter data that can be submitted to a server for processing. The type of input control is defined by the type attribute.
 
