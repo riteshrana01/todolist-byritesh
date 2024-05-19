@@ -79,6 +79,7 @@ input{
     border: none;
     background: transparent;
     outline: none;
+    /* Add padding inside the input field */
     padding: 10px;
 }
 /* Add button styles */
