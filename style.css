@@ -123,6 +123,7 @@ ul li {
 ul li::before{
     /* Create a pseudo-element before the list item */
     content: '';
+    /* Position the pseudo-element absolutely */    
     position: absolute;
     height: 28px;
     width: 28px;
