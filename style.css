@@ -161,6 +161,7 @@ ul li span{
 }
 /* Background for delete button when hovered styles */
 ul li span:hover{
+/*     Change background colour */
     background: #edeef0;
 
 }
