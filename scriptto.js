@@ -27,6 +27,8 @@ function addTask() {
     // Clear the input box
 
     inputBox.value = "";
+            // Save the data to local storage
+
     saveData();
 
 }
