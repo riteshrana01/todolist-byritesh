@@ -92,6 +92,7 @@ button{
     outline: none;
     /* Set padding for the button content */
     padding: 16px 50px;
+    /* Set background color for the button */
     background: #ff5945;
     color: #fff;
     font-size: 16px;
