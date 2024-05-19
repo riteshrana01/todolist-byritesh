@@ -46,6 +46,7 @@ else if (e.target.tagName === "SPAN") {
     }
 }, false);
 
+// Function to save the data to local storage
 function saveData(){
     localStorage.setItem("data", listContainer.innerHTML);
 }
