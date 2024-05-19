@@ -114,6 +114,7 @@ ul li {
     padding: 12px 8px 12px 50px;
     /* Disable text selection */
     user-select: none;
+    /* Change cursor to pointer */
     cursor: pointer;
     position: relative;
 }
