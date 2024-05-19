@@ -17,6 +17,8 @@ The <link> tag in HTML is used to define the relationship between the current do
 
 The <body> tag in HTML represents the content of an HTML document. It contains all the visible content that users see when they visit a webpage.
 
+![Screenshot 2024-05-19 151446](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/bb628fa9-d4f1-4af5-85de-f2d39e4cdbb6)
+
 The <div> tag in HTML is a versatile container element used to group together other HTML elements and apply styling or JavaScript functionality to them collectively. It stands for "division" and is often used to create sections or divisions within a webpage.
 
 ![Screenshot 2024-05-19 151428](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/336b4065-feab-47db-a14c-59187247ccfe)
