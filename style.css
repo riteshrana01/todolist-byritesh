@@ -140,8 +140,8 @@ ul li.checked{
 
 }
 /* Checkbox for checked list items styles */
-
 ul li.checked::before{
+/*     Change background - image to checked.png*/
     background-image: url(checked.png);
 
 }
