@@ -58,5 +58,6 @@ function showTask(){
     listContainer.innerHTML = localStorage.getItem("data");
 }
 
+// Call the showTask function to show the saved tasks when the page loads
 showTask();
 
