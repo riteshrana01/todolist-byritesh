@@ -48,7 +48,9 @@
 }
 /* Image within the heading styles */
 .todo-app h2 img{
+    /* Set image width */
     width: 30px;
+    /* Add spacing to the left of the image */
     margin-left: 10px ;
 
 }
