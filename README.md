@@ -20,6 +20,7 @@ In summary, this to-do list website is a powerful demonstration of front-end web
 The to-do list website operates as an efficient and user-friendly task management tool, leveraging front-end web technologies to deliver a seamless experience. Here is an overview of its working:
 
 1. User Interface : The website features a clean and intuitive interface where users can easily create, view, update, and delete tasks. The design employs modern CSS techniques such as flexbox and grid to ensure a well-organized layout, which is both aesthetically pleasing and functional.
+
 2. Task Management: Users can add new tasks by entering details into a designated input field and submitting the form. Tasks are displayed in a list format, where each task can be individually managed. Users can mark tasks as completed, edit existing tasks, or delete tasks that are no longer needed.
 3. Data Storage: The website utilizes the Web Storage API to store task data locally within the user's browser. This approach eliminates the need for a back-end server or database, ensuring that the tasks remain accessible even when the browser is closed and reopened. The use of local storage guarantees data persistence and enhances user convenience.
 4. Responsive Design: The website's responsive design ensures compatibility across various devices, from desktop computers to mobile phones. The interface adjusts dynamically to different screen sizes, maintaining usability and visual appeal on all platforms.
