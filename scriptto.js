@@ -24,6 +24,7 @@ function addTask() {
 
 
     }
+    // Clear the input box
 
     inputBox.value = "";
     saveData();
