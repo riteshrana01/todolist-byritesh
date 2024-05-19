@@ -83,7 +83,7 @@ ul li {
 
 
 }
-
+/* Checkbox before the list item styles */
 ul li::before{
     content: '';
     position: absolute;
