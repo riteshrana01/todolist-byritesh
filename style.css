@@ -12,6 +12,7 @@
 
 /* Container Styles */
 .container {
+    /* Fill the entire width of the viewport */
     width: 100%;
     min-height: 100vh;
     background: linear-gradient(135deg, #153677, #4e085f);
