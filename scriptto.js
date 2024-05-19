@@ -23,10 +23,8 @@ function addTask() {
         
 // Clear the input box
 inputBox.value = "";
-            // Save the data to local storage
-
-    saveData();
-
+        // Save the data to local storage
+        saveData();
 }
 // Add event listener to the list container to handle user clicks on list items and "x" symbols
 
