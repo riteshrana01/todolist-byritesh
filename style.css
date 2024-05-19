@@ -75,6 +75,7 @@
 }
 /* Input field styles */
 input{
+    /* Make the input field flexible, filling the available space */
     flex:1;
     /* Remove borders and background color */
     border: none;
