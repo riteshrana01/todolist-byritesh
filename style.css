@@ -38,6 +38,8 @@
 /* Apply border-radius to the to-do app */    
     border-radius: 10px;
 }
+
+
 /* To do app heading styles */
 .todo-app h2{
     /* Set text color */
