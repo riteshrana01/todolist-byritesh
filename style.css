@@ -162,6 +162,7 @@ ul li.checked::before{
 }
 /* Delete button within the list item styles */
 ul li span{
+    /* Position the delete button absolutely */
     position: absolute;
     right: 0;
     top: 5px;
