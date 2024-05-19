@@ -172,6 +172,7 @@ ul li span{
     height: 40px;
     /* Set font size */
     font-size: 22px;
+    /* Set line-height to match the height */
     line-height: 40px;
     color: #555;
     text-align: center;
