@@ -41,6 +41,8 @@ listContainer.addEventListener("click", function(e) {
                     // Toggle the "checked" class on the list item
 
         e.target.classList.toggle("checked");
+                    // Save the data to local storage
+
         saveData();
     } else if (e.target.tagName === "SPAN") {
         e.target.parentElement.remove();
