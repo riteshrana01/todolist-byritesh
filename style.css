@@ -135,6 +135,7 @@ ul li::before{
     /* Adjust background-size and background-position */
     background-size: cover;
     background-position: center;
+    /* Set top and left position */
     top: 12px;
     left: 8px;
 
