@@ -103,6 +103,7 @@ ul li.checked{
     text-decoration: line-through;
 
 }
+/* Checkbox for checked list items styles */
 
 ul li.checked::before{
     background-image: url(checked.png);
