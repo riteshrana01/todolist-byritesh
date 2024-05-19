@@ -32,9 +32,8 @@ listContainer.addEventListener("click", function(e) {
         // If the user clicks on a list item
         if (e.target.tagName === "LI") {
         // Toggle the "checked" class on the list item
-
         e.target.classList.toggle("checked");
-                    // Save the data to local storage
+        // Save the data to local storage
 
         saveData();
     } else if (e.target.tagName === "SPAN") {
