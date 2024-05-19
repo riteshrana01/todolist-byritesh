@@ -125,6 +125,7 @@ ul li::before{
     content: '';
     /* Position the pseudo-element absolutely */    
     position: absolute;
+    /* Set height and width */
     height: 28px;
     width: 28px;
     border-radius: 50%;
