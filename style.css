@@ -106,14 +106,13 @@ button{
 }
 /* To-do list styles */
 ul li {
+    /* Remove list style */
     list-style: none;
     font-size: 17px;
     padding: 12px 8px 12px 50px;
     user-select: none;
     cursor: pointer;
     position: relative;
-
-
 }
 /* Checkbox before the list item styles */
 ul li::before{
