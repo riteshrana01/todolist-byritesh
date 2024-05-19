@@ -87,6 +87,7 @@ input{
 }
 /* Add button styles */
 button{
+    /* Remove borders and outline */
     border: none;
     outline: none;
     padding: 16px 50px;
