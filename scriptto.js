@@ -54,6 +54,7 @@ function saveData(){
 
 // Function to show the saved tasks when the page loads
 function showTask(){
+    // If there is saved data in local storage, set the list container's inner HTML to the saved data
     listContainer.innerHTML = localStorage.getItem("data");
 }
 
