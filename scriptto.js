@@ -36,7 +36,8 @@ listContainer.addEventListener("click", function(e) {
         // Save the data to local storage
         saveData();
     } 
-        
+
+// If the user clicks on the "x" symbol               
 else if (e.target.tagName === "SPAN") {
         e.target.parentElement.remove();
         saveData();
