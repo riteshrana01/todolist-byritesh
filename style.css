@@ -90,6 +90,7 @@ button{
     /* Remove borders and outline */
     border: none;
     outline: none;
+    /* Set padding for the button content */
     padding: 16px 50px;
     background: #ff5945;
     color: #fff;
