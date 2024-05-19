@@ -5,7 +5,7 @@ const listContainer = document.getElementById("list-container");
 // Add task function called when user clicks the "Add" button
 function addTask() {
         // Check if the input box is empty
-    if (inputBox.value === '') {
+        if (inputBox.value === '') {
                     // If empty, show an alert message
 
         alert("You must write something!");
