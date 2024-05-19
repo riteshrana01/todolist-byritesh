@@ -130,6 +130,7 @@ ul li::before{
     width: 28px;
     /* Add border-radius to make it circular */
     border-radius: 50%;
+    /* Set background-image to unchecked.png */
     background-image: url(unchecked.png);
     background-size: cover;
     background-position: center;
