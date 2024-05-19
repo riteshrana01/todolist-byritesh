@@ -6,7 +6,6 @@ The <html lang="en"> tag is the root element of an HTML document. It encloses al
 
 ![htmleng](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/076bcf1b-b10c-42b0-9d9f-c49b8bb05b35)
 
-
 The <head> tag in HTML is a crucial element that contains meta-information about the document. This tag can include the title, character set, links to stylesheets, scripts, and other meta tags that provide information about the HTML document.
 
 The <link> tag in HTML is used to define the relationship between the current document and an external resource. It is most commonly used to link to external stylesheets, but it can also be used for other types of resources like icons, prefetching, and web fonts.
