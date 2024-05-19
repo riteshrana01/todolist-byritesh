@@ -18,6 +18,7 @@
     min-height: 100vh;
     /* Apply background gradient */
     background: linear-gradient(135deg, #153677, #4e085f);
+    /* Add padding around the container */
     padding: 10px;
 }
 /* To-Do app wrapper styles */
