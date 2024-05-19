@@ -109,7 +109,7 @@ ul li.checked::before{
     background-image: url(checked.png);
 
 }
-
+/* Delete button within the list item styles */
 ul li span{
     position: absolute;
     right: 0;
