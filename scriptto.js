@@ -2,6 +2,7 @@
 const inputBox = document.getElementById("input-box");
 const listContainer = document.getElementById("list-container");
 
+// Add task function called when user clicks the "Add" button
 function addTask() {
     if (inputBox.value === '') {
         alert("You must write something!");
