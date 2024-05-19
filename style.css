@@ -63,6 +63,7 @@
     align-items: center;
     /* Space items evenly within the row */
     justify-content: space-between;
+    /* Set background color for the input row */
     background: #edeef0;
     border-radius: 30px;
     padding-left: 20px;
