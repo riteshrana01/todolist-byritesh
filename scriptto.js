@@ -39,6 +39,7 @@ listContainer.addEventListener("click", function(e) {
 
 // If the user clicks on the "x" symbol               
 else if (e.target.tagName === "SPAN") {
+        // Remove the parent list item
         e.target.parentElement.remove();
         saveData();
     }
