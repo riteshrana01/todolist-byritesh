@@ -18,7 +18,9 @@ The to-do list website operates as an efficient and user-friendly task managemen
 2. Task Management: Users can add new tasks by entering details into a designated input field and submitting the form. Tasks are displayed in a list format, where each task can be individually managed. Users can mark tasks as completed, edit existing tasks, or delete tasks that are no longer needed.
 3. Data Storage: The website utilizes the Web Storage API to store task data locally within the user's browser. This approach eliminates the need for a back-end server or database, ensuring that the tasks remain accessible even when the browser is closed and reopened. The use of local storage guarantees data persistence and enhances user convenience.
 4. Responsive Design: The website's responsive design ensures compatibility across various devices, from desktop computers to mobile phones. The interface adjusts dynamically to different screen sizes, maintaining usability and visual appeal on all platforms.
+
 5. Accessibility Features: The website incorporates accessibility features to cater to users with diverse needs. These include keyboard navigation, screen reader support, and options for task filtering and sorting. Such features ensure that the tool is usable by individuals with different abilities and preferences.
+
 6. Collaboration Capabilities: While the current implementation focuses on individual task management, the design allows for potential future enhancements to include collaboration features. This would enable teams to work together on shared tasks more efficiently, further extending the website's functionality.
 In conclusion, the to-do list website exemplifies the effectiveness of front-end web development, demonstrating how HTML, CSS, and JavaScript can be employed to create a robust, user-friendly task management tool.
 
