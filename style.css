@@ -44,6 +44,7 @@
     /* Align the heading text and icon horizontally */
     display: flex;
     align-items: center;
+    /*Add spacing between heading and icon */
     margin-bottom: 20px ;
     margin-left: 10px;
 
