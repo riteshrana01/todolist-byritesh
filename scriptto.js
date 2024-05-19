@@ -41,6 +41,7 @@ listContainer.addEventListener("click", function(e) {
 else if (e.target.tagName === "SPAN") {
         // Remove the parent list item
         e.target.parentElement.remove();
+        // Save the data to local storage
         saveData();
     }
 }, false);
