@@ -29,6 +29,8 @@ The <input> tag in HTML is used to create interactive controls for web forms. It
 
 The <ul> and <li> tags in HTML are used together to create unordered lists. The <ul> tag defines an unordered list, while the <li> tag defines each list item within that list.
 
+![ulli](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/d594e87a-c3f4-486e-a7f3-9ad5bea49898)
+
 The <h> tag, commonly known as the heading tag, is used in HTML to define headings or titles within a document. Headings are essential for structuring the content of a webpage and improving its accessibility and readability. HTML provides six levels of headings, from <h1> to <h6>, with <h1> being the most important (typically used for the main title of the page) and <h6> being the least important (usually used for subheadings or minor titles.
 
 ![Uploading Screenshot 2024-05-19 151335.png…]()
