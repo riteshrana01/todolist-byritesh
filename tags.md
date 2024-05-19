@@ -39,3 +39,5 @@ The <script> tag in HTML is used to define client-side JavaScript code or to ref
 
 
 The <title> tag in HTML is used to define the title of the document. This title is displayed in the browser's title bar or tab, and it is also used by search engines as the title of the search result. The <title> element is required in all HTML documents and must be placed within the <head> section.
+
+![Screenshot 2024-05-19 151553](https://github.com/riteshrana01/todolist-scmproject/assets/146207456/055565af-faf0-4ac7-a235-233c6daa2c0b)
