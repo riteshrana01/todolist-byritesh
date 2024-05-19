@@ -76,6 +76,7 @@
 /* Input field styles */
 input{
     flex:1;
+    /* Remove borders and background color */
     border: none;
     background: transparent;
     outline: none;
