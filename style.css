@@ -176,6 +176,7 @@ ul li span{
     line-height: 40px;
     /* Set text color */
     color: #555;
+    /* Center text horizontally and vertically */
     text-align: center;
     border-radius: 50px;
 
