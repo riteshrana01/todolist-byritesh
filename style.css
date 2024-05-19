@@ -116,6 +116,7 @@ ul li {
     user-select: none;
     /* Change cursor to pointer */
     cursor: pointer;
+    /* Position the list item relatively to its parent */
     position: relative;
 }
 /* Checkbox before the list item styles */
