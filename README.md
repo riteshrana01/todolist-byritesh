@@ -10,6 +10,7 @@ This to-do list website exemplifies the capabilities of front-end web developmen
 Developed using HTML, CSS, and JavaScript, the website operates without a back-end server or database. Task data is stored locally in the user's browser through the Web Storage API, ensuring persistence even after the browser is closed and reopened.
 
 The responsive design ensures optimal appearance across all devices, from desktop computers to mobile phones. Modern CSS techniques, such as flexbox and grid, contribute to a clean and organized layout, while custom icons and a unique color scheme add personality and style.
+
 The website's functionality is further enhanced with features like task filtering, sorting, and editing, as well as keyboard navigation and screen reader support, ensuring accessibility for users with varying abilities and preferences.
 In summary, this to-do list website is a powerful demonstration of front-end web development potential, showcasing how HTML, CSS, and JavaScript can create dynamic and engaging user experiences.
 
