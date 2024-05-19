@@ -58,6 +58,7 @@
 }
 /* Input row styles */
 .row{
+    /* Align content horizontally */
     display: flex ;
     align-items: center;
     justify-content: space-between;
