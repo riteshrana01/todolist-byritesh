@@ -98,6 +98,7 @@ button{
     color: #fff;
     /* Set font size for the button text */
     font-size: 16px;
+    /* Change cursor to pointer when hovering over the button */
     cursor: pointer;
     border-radius: 40px;
 
