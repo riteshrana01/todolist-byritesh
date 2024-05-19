@@ -38,6 +38,8 @@ listContainer.addEventListener("click", function(e) {
             // If the user clicks on a list item
 
     if (e.target.tagName === "LI") {
+                    // Toggle the "checked" class on the list item
+
         e.target.classList.toggle("checked");
         saveData();
     } else if (e.target.tagName === "SPAN") {
